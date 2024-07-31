@@ -10,3 +10,4 @@ langchainhub
 pypdf
 rapidocr-onnxruntime
 langchain-ollama
+faiss-cpu
